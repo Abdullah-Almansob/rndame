@@ -1,4 +1,6 @@
 body{
     background-color: #eee
-    color(srgb red green blue)
+    color(srgb red green blue);
+    font-size:12px;
+    font-family: Arial, sans-serif;
 }
